@@ -1,0 +1,2 @@
+# insurance_claim_automation_by_using_agents_mcp_tools_rag
+An AI-powered Insurance Claim Automation System that uses Generative AI, RAG, Pinecone vector search, and MCP to automate claim processing, retrieve relevant insurance policy information, verify claim details, and provide accurate, context-aware responses. The system improves processing efficiency, reduces manual effortfor claim decisions.
